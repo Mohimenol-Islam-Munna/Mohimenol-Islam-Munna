@@ -1,7 +1,7 @@
-#Hi there,
-This is Md Mohimenol Islam Munna. A full stack web developer.
+# Hi there,
+This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer.
 
-Skills: React / Vue / Node / Django / Flutter
+Skills: <b>React</b> /<b> Vue</b> /<b> Node</b> /<b> Django</b> /<b> React Native</b> /<b> Flutter</b>
 
 - 🔭 I’m currently working on Web Development and Mobile Application.  
 - 🌱 I’m currently learning Flutter 
