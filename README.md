@@ -1,6 +1,6 @@
+![](https://media-exp1.licdn.com/dms/image/C5616AQGDVVMzf-ZI1w/profile-displaybackgroundimage-shrink_200_800/0/1626155121623?e=1635984000&v=beta&t=vMNLVxZo4mmMaTWCu38iLO1nUoRERVB7NRM7CZEQ3UM)
 # Hi there,
 This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer.
-
 Skills: <b>React</b> /<b> Vue</b> /<b> Node</b> /<b> Django</b> /<b> React Native</b> /<b> Flutter</b>
 
 - 🔭 I’m currently working on Web Development and Mobile Application.  
@@ -9,8 +9,6 @@ Skills: <b>React</b> /<b> Vue</b> /<b> Node</b> /<b> Django</b> /<b> React Nativ
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohimenol-Islam-Munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohimenol-munna-a54167132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mohimenol.munna)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna)](https://github.com/ryo-ma/github-profile-trophy)
 
