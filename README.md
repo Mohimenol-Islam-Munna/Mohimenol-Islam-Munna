@@ -4,7 +4,6 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer.</br>
 Skills: <b>React</b> /<b> Vue</b> /<b> Node</b> /<b> Django</b> /<b> React Native</b>
 
 - 🔭 I’m currently working on Web Development and Mobile Application.  
-- 🌱 I’m currently learning Flutter 
 - 💬 Ask me about web and mobile application development. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Mohimenol-Islam-Munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna)  
