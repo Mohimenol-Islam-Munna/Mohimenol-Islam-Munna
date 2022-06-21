@@ -27,12 +27,29 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
     * TYPE: REST API, GRAPHQL
     
     
+  ###### MOBILE APPLICATION
+  
+    * REACT NATIVE
+    
+    
   ###### TOOLS
   
     * GIT & GITHUB
     * FIGMA 
     
- 
+    
+## WORK EXPERIENCE
+
+  ###### CURRENTLY WORKING
+  
+    * COMPANY NAME: EHSAN SOFTWARE LTD, BOGURA
+    * POSITION: FRONTEND DEVELOPER (REACT JS)
+    * JOB START: 3rd AUGUEST 2021
+   
+<!--  ###### PREVIOUS COMPANY  -->
+    
+
+
 ## CONTACT WITH ME
 
 <!-- ##### PORTFOLIO  -->
