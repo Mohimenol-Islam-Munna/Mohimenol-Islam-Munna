@@ -1,8 +1,9 @@
 
-### HI THERE,
+## HI THERE,
 
 This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 
+##
  
 ## TECHNOLOGIES
 
@@ -53,8 +54,6 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 ## STATS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true) 
-
-![GitHub metrics](https://metrics.lecoq.io/Mohimenol-Islam-Munna)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna)  
 
