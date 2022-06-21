@@ -8,9 +8,9 @@ Skills: <b>React js</b> /<b> Vue js</b> /<b> Node js</b> /<b> Express js</b> /<b
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Mohimenol-Islam-Munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohimenol-Islam-Munna)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohimenol-Islam-Munna)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true)  
 
