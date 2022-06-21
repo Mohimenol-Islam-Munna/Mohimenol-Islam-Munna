@@ -10,7 +10,7 @@ Skills: <b>React js</b> /<b> Vue js</b> /<b> Node js</b> /<b> Express js</b> /<b
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohimenol-Islam-Munna)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohimenol-Islam-Munna&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true)  
 
