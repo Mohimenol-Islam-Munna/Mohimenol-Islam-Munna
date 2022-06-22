@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
+
 ![Profile views](https://gpvc.arturio.dev/Mohimenol-Islam-Munna) 
 ## HI THERE,
 
@@ -10,7 +12,7 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
   
     * HTML 
     * CSS: SASS,BEM
-    * BOOTSTRAP,TAILWIND
+    * BOOTSTRAP,TAILWIND CSS
     * LANGUAGE: JAVASCRIPT,TYPESCRIPT
     * FRAMEWORK: REACT JS, VUE JS, NEXT JS
     * COMPONENT LIBRARY: REACT-BOOTSTRAP, METARIAL UI
@@ -43,8 +45,8 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
   ###### CURRENTLY WORKING
   
     * COMPANY NAME: EHSAN SOFTWARE LTD, BOGURA
-    * POSITION: FRONTEND DEVELOPER (REACT JS)
-    * JOB START: 3rd AUGUEST 2021
+    * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS)
+    * JOB START: 3RD AUGUEST 2021
    
 <!--  ###### PREVIOUS COMPANY  -->
     
