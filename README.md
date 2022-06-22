@@ -75,12 +75,14 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 
 ## CONTRIBUTION 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohimenol-Islam-Munna&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohimenol-Islam-Munna&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
 
 
 ## STATS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true&theme=dark&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" />
+</>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna)  
 
