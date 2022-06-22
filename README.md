@@ -19,7 +19,7 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
   
     * HTML 
     * CSS: SASS,BEM
-    * BOOTSTRAP,TAILWIND CSS
+    * CSS FRAMEWORK: BOOTSTRAP,TAILWIND CSS
     * LANGUAGE: JAVASCRIPT,TYPESCRIPT
     * FRAMEWORK: REACT JS, VUE JS, NEXT JS
     * COMPONENT LIBRARY: REACT-BOOTSTRAP, METARIAL UI
@@ -29,9 +29,8 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
   ###### :radio_button: BACKEND
   
-    * LANGUAGE: JAVASCRIPT,TYPESCRIPT
-    * NODE JS
-    * FRAMEWORK: EXPRESS JS
+    * LANGUAGE: JAVASCRIPT, TYPESCRIPT
+    * FRAMEWORK: NODE JS, EXPRESS JS
     * DATABASE: MONGODB, MYSQL 
     * TYPE: REST API, GRAPHQL
     
