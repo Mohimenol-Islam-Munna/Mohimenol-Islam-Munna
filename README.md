@@ -8,12 +8,12 @@
   <a id="twitter-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
 </p>
 
-## HEY THERE,
+## HEY THERE, :wave:
 
 This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 
 ##
-## TECHNOLOGIES
+## :wrench: TECHNOLOGIES
 
   ###### :radio_button: FRONTEND
   
@@ -47,9 +47,9 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
     * FIGMA 
     
     
-## WORK EXPERIENCE
+## :briefcase: WORK EXPERIENCE
 
-  ###### CURRENTLY WORKING
+  ###### :running: CURRENTLY WORKING
   
     * COMPANY NAME: EHSAN SOFTWARE LTD, BOGURA
     * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS)
@@ -57,11 +57,13 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
     
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
    
-<!--  ###### PREVIOUS COMPANY  -->
+ ###### :negative_squared_cross_mark: PREVIOUS COMPANIES
+ 
+    ---
     
 
 
-## CONTACT WITH ME
+## :phone: CONTACT WITH ME
 
 <!-- ##### PORTFOLIO  -->
 
@@ -72,17 +74,17 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
 
 
-## ACTIVITY 
+## :trophy: ACTIVITY 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna&count_private=true&theme=algolia&column=8&margin-w=30)
 
 
-## CONTRIBUTION 
+## :bar_chart: CONTRIBUTION 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohimenol-Islam-Munna&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
 
 
-## STATS
+## :white_flower: STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&show_icons=true&count_private=true&theme=dark&background=000000" />
