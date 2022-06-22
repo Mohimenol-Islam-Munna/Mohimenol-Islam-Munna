@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Mohimenol-Islam-Munna" alt="Profile view" height="28" width="110">
-<a href="https://www.linkedin.com/in/mohimenol-munna-a54167132/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-  <a href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
+<a id="linkedn-link" target="_blank" href="https://www.linkedin.com/in/mohimenol-munna-a54167132/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a id="facebook-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+  <a id="twitter-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
 </p>
 
 ## HEY THERE,
@@ -64,13 +64,15 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 <!-- ##### PORTFOLIO  -->
 
 ###### SOCIAL
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](#linkedn-link)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](#facebook-link) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](#twitter-link) 
 
 
 ## ACTIVITY 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna&count_private=true&theme=algolia&column=8&margin-w=30)
 
 
 ## CONTRIBUTION 
