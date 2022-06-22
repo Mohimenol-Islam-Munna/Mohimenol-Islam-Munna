@@ -87,8 +87,7 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="49%"/>
 </>
-
 
