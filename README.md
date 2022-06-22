@@ -1,7 +1,14 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
 
-![Profile views](https://gpvc.arturio.dev/Mohimenol-Islam-Munna) 
-## HI THERE,
+<p align="center"><img src="https://user-images.githubusercontent.com/60900771/174942929-c00baf97-6031-4dab-8dfb-2483de87b1d5.png" width="250" height="200"/></p>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Mohimenol-Islam-Munna" alt="Profile view" height="28" width="110">
+<a href="https://www.linkedin.com/in/mohimenol-munna-a54167132/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+  <a href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
+</p>
+
+## HEY THERE,
 
 This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 
