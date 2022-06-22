@@ -5,10 +5,16 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/Mohimenol-Islam-Munna" alt="Profile view" height="28" width="110">
   <a id="linkedn-link" target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20-%234D1A7F" alt="Portfolio" height="28" width="110"></a>
+</p>
+
+<p align="center">
 <a id="linkedn-link" target="_blank" href="https://www.linkedin.com/in/mohimenol-munna-a54167132/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a id="facebook-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
   <a id="twitter-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
 </p>
+
+
+
 
 ## HEY THERE, :wave: 
 
@@ -63,7 +69,6 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
     ---
     
 
-
 ## :phone: CONTACT WITH ME
 
 <!-- ##### PORTFOLIO  -->
@@ -89,6 +94,6 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="49%"/>
 </p>
 
