@@ -15,7 +15,7 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 ##
 ## TECHNOLOGIES
 
-  ###### FRONTEND
+  ###### :radio_button: FRONTEND
   
     * HTML 
     * CSS: SASS,BEM
@@ -27,7 +27,7 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
     * GRAPHQL: APOLLO-CLIENT
     
 
-  ###### BACKEND
+  ###### :radio_button: BACKEND
   
     * LANGUAGE: JAVASCRIPT,TYPESCRIPT
     * NODE JS
@@ -36,12 +36,12 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
     * TYPE: REST API, GRAPHQL
     
     
-  ###### MOBILE APPLICATION
+  ###### :radio_button: MOBILE APPLICATION
   
     * REACT NATIVE
     
     
-  ###### TOOLS
+  ###### :radio_button: TOOLS
   
     * GIT & GITHUB
     * FIGMA 
