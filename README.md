@@ -65,9 +65,9 @@ This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer(MERN).</br>
 
 ###### SOCIAL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](#linkedn-link)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](#facebook-link) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](#twitter-link) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
 
 
 ## ACTIVITY 
