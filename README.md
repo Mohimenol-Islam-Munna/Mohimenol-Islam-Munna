@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-<a id="linkedn-link" target="_blank" href="https://www.linkedin.com/in/mohimenol-munna-a54167132/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a id="facebook-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-  <a id="twitter-link" target="_blank" href="https://www.facebook.com/mohimenol.munna"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
+<a id="linkedn-link" href="https://www.linkedin.com/in/mohimenol-munna-a54167132/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a id="facebook-link" href="https://www.facebook.com/mohimenol.munna" target="_blank"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+  <a id="twitter-link" href="https://www.facebook.com/mohimenol.munna" target="_blank"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='facebook'></a>
 </p>
 
 
