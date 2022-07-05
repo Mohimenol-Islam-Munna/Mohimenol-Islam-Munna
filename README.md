@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Mohimenol-Islam-Munna" alt="Profile view" height="28" width="110">
-  <a id="linkedn-link" target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20-%234D1A7F" alt="Portfolio" height="28" width="110"></a>
+  <a id="linkedn-link" target="_blank" href="https://mohimenol-islam-munna.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20-%234D1A7F" alt="Portfolio" height="28" width="110"></a>
 </p>
 
 <p align="center">
