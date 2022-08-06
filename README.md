@@ -73,7 +73,7 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
   [`EHSAN MARKETING`](https://www.ehsanmarketing.com/)
   [`REST COUNTRIES`](https://mm-rest-countries.netlify.app/)
   [`URL SHORTNER`](https://mm-url-shortner.netlify.app/)
-  [`E-COMMERCE CURRENTLY DEVELOPING ...`](https://mm-e-commerce.netlify.app/)
+  [`E-COMMERCE (CURRENTLY DEVELOPING ...)`](https://mm-e-commerce.netlify.app/)
 
 
 ## :phone: CONTACT WITH ME
