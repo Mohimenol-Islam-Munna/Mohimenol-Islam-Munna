@@ -68,13 +68,12 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
     ---
     
-  ###### :negative_squared_cross_mark: SOME PROJECT LIST
-  
-   [REST COUNTRIES](https://mm-rest-countries.netlify.app/){:target="_blank" rel="noopener"}
+ ###### :negative_squared_cross_mark: SOME PROJECT LIST
    
-   [EHSAN MARKETING](https://www.ehsanmarketing.com/){:target="_blank" rel="noopener"}
+   <p><a id="ehsanmarketing" target="_blank" href="https://www.ehsanmarketing.com/">EHSAN MARKETING</a></p>
    
-    
+   <p><a id="rest-countries" target="_blank" href="https://mm-rest-countries.netlify.app/">REST COUNTRIES</a></p>
+
 
 ## :phone: CONTACT WITH ME
 
