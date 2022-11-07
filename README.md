@@ -73,7 +73,6 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
     
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
 
-    ---
     
  ###### :pushpin: SOME PROJECT LIST
  
