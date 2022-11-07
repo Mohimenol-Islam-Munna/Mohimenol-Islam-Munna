@@ -58,13 +58,20 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
   ###### :running: CURRENTLY WORKING
   
-    * COMPANY NAME: EHSAN SOFTWARE LTD, BOGRA, BANGLADESH 🇧🇩
-    * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS)
-    * JOB START: 3RD AUGUEST 2021
-    
+    * COMPANY NAME: PENTA GLOBAL, GUNSHAN, DHAKA, BANGLADESH 🇧🇩
+    * POSITION: SOFTWARE ENGINEER
+    * JOB START: 20TH OCTOBER 2022
+  
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
    
  ###### :negative_squared_cross_mark: PREVIOUS COMPANIES
+ 
+    * COMPANY NAME: EHSAN SOFTWARE LTD, BOGRA, BANGLADESH 🇧🇩
+    * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS, APOLLOCLIENT)
+    * JOB START: 3RD AUGUEST 2021
+    * JOB END: 16TH OCTOBER 2022
+    
+   [`COMPANY WEBSITE`](https://ehsansoftware.com/)
 
     ---
     
