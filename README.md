@@ -58,11 +58,11 @@ This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full st
 
   ###### :running: CURRENTLY WORKING
   
-    * COMPANY NAME: PENTA GLOBAL, GUNSHAN, DHAKA, BANGLADESH 🇧🇩
+    * COMPANY NAME: PENTA GLOBAL, GULSHAN, DHAKA, BANGLADESH 🇧🇩
     * POSITION: SOFTWARE ENGINEER
     * JOB START: 20TH OCTOBER 2022
   
-   [`COMPANY WEBSITE`](https://ehsansoftware.com/)
+   [`COMPANY WEBSITE`](https://www.pentabd.com/)
    
  ###### :negative_squared_cross_mark: PREVIOUS COMPANIES
  
