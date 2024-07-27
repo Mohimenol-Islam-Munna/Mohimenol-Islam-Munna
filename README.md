@@ -18,7 +18,7 @@
 
 ## HEY THERE, :wave: 
 
-This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full stack web developer (MERN). I have completed Computer Science & Engineering from [`Pabna University of Science & Technology`](https://www.pust.ac.bd/). I have an experience on different branches of computer science & engineering. I have been working professionally as a frontend developer (react js, next js) since 2021. Also i have skills on typescript, node js, express js, vue js, react native etc.</br>
+This is <b>Md Mohimenol Islam Munna</b> from Bangladesh 🇧🇩. I am a full stack web developer (MERN). I have completed Computer Science & Engineering from [`Pabna University of Science & Technology`](https://www.pust.ac.bd/). I have an experience on different branches of computer science & engineering. I have been working professionally as a frontend developer (react js, next js) since 2021. Also i have skills on typescript, python, go(golang), node js, express js, nest js, fastapi, sql, mongodb etc.</br>
 
 ##
 ## :wrench: TECHNOLOGIES
